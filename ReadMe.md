@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Chayanka K.<br><br>🌟 About Me<br>🎓 MCA Student | 💻 Web Developer<br>🌐 Passionate about crafting dynamic and responsive user interfaces<br>🚀 Skilled in HTML, CSS, JavaScript, and currently learning React<br>🎮 Love working on interactive projects like games and tools<br><br><br>🛠️ Technologies & Tools<br>💻 HTML, CSS, JavaScript<br>⚛️ React (learning)<br>🗃️ MongoDB<br>🐍 SQL<br>☕ Java, C++<br><br>📈 Recent Projects<br>🎮 Memory Game<br>🔐 Random Password Generator<br>⏱️ Stopwatch Application<br><br><br>🎓 Certifications<br>🏅 HTML, CSS, JavaScript<br>🏅 Mathematical Thinking in Computer Science<br>🏅 Finding Your Professional Voice<br>🏅 Introduction to MongoDB
+👋 Hi, I'm Chayanka K.<br><br>🌟 About Me<br>🎓 MCA Student | 💻 Web Developer<br>🌐 Passionate about crafting dynamic and responsive user interfaces<br>🚀 Skilled in HTML, CSS, JavaScript, and currently learning React<br>🎮 Love working on interactive projects like games and tools<br><br><br>🛠️ Technologies & Tools<br>💻 HTML, CSS, JavaScript<br>⚛️ ReactJs<br>🔧 Node.js<br>🌀 Git<br>🔥 Firebase<br>🎨 Tailwind CSS<br>⚙️ Bootstrap🗃️ MongoDB<br>🐍 SQL<br>☕ Java, C++<br><br>📈 Recent Projects<br>🌐 Portfolio<br>💫 Gemini Clone<br>📝 Note App
+<br>🎮 Memory Game<br><br><br>🎓 Certifications<br>🏅 Cloud Security Basics<br>🏅 Git and GitHub<br>🏅 Finding Your Professional Voice<br>🏅 Introduction to MongoDB
 
 
 ## 🌐 Socials:
